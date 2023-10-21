@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="DKI-Jakarta" size="50.000000 34.075211" />
+    <ImageTarget name="Tangerang-Selatan" size="50.000000 34.075211" />
+    <ImageTarget name="Solok" size="50.000000 34.075211" />
+    <ImageTarget name="Semarang" size="50.000000 34.075211" />
+    <ImageTarget name="Bandar-Lampung" size="50.000000 34.075211" />
+    <ImageTarget name="Sleman" size="50.000000 34.075211" />
+    <ImageTarget name="Trenggalek" size="50.000000 34.075211" />
+    <ImageTarget name="Tanah-Laut" size="50.000000 34.075211" />
+    <ImageTarget name="Sijunjung" size="50.000000 34.075211" />
+    <ImageTarget name="KabPurwakarta" size="50.000000 34.075211" />
+    <ImageTarget name="Purbalingga" size="50.000000 34.075211" />
+    <ImageTarget name="Probolinggo" size="50.000000 34.075211" />
+    <ImageTarget name="pasuruan" size="50.000000 34.075211" />
+    <ImageTarget name="mojokerto" size="50.000000 34.075211" />
+    <ImageTarget name="magetan" size="50.000000 34.075211" />
+    <ImageTarget name="blitar" size="50.000000 34.075211" />
+    <ImageTarget name="banyumas" size="50.000000 34.075211" />
+    <ImageTarget name="bangka-selatan" size="50.000000 34.075211" />
+  </Tracking>
+</QCARConfig>

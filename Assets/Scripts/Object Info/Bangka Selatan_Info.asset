@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284baa5443c572941993bdd076d10cb9, type: 3}
+  m_Name: Bangka Selatan_Info
+  m_EditorClassIdentifier: 
+  kabupatenKota: Kab. Bangka Selatan
+  score: 89.516
+  indexUML: 97,31 (Kelas A)
+  indexTertibUkur: 95,878
+  indexPemahamanMasyarakatTerhadapMetrologiLegal: 71
+  inovasiPelayanan: 75
+  judulInovasiPelayanan: Suling BDKT (Penyuluhan Daring Barang dalam Keadaan Terbungkus),
+    RETRO METAL BASEL (Retribusi Quick Response Code Metrologi Legal Bangka Selatan),
+    AIK BAKUNG (Ajak Bupati Kite Sambang Kampung), SINERGI BASEL (Sistem Informasi
+    Metrologi Terintegrasi Bangka Selatan), DML (Duta Metrologi Legal), MEGA EMAS
+    (Metrologi Legal Masuk Sekolah)
